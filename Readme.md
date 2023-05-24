@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Irina Selina](https://up.htmlacademy.ru/htmlcss/37/user/2364309).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Румянцев](https://htmlacademy.ru/profile/id1521451)
 
 ---
 
